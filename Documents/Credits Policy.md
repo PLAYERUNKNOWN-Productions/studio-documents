@@ -38,8 +38,5 @@ Credits are shared with the team for review and necessary fixes before release.
 The credits are included in the game and/or in a file alongside the executable.
 
 # FAQ
-## Q1: Who is the “project owner”?
-Insert project owner per project here.
-
-## Q2: What if I don’t want to be credited?
-No problem, in the form there is a column named “Wants to be credited”, fill your information and set “No” on this column.
+## Q1: What if I don’t want to be credited?
+No problem, you can always opt-out.
