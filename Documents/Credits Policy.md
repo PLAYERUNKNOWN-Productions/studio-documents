@@ -40,3 +40,5 @@ The credits are included in the game and/or in a file alongside the executable.
 # FAQ
 ## Q1: What if I don’t want to be credited?
 No problem, you can always opt-out.
+## Q2: I would like to be credited but no longer work at the studio?
+If you contributed to PLAYERUNKNOWN Productions either as a staff member, contractor, or via an agency **before the current credits policy was put in place**, you can apply to be added to the credits via an email to credits@pp.studio. These applications are treated on a case by case basis.
